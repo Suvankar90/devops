@@ -69,7 +69,7 @@ To use the built in server adapters of Eclipse, instead of doing "Run As -> Mave
 testing again for that
 This is the new project which i need
 hi
-hello world
+hello world,hello
 hi
 hi
 hikkk
